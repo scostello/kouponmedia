@@ -2,7 +2,7 @@
 
 This is a coding challenge solution for finding the largest sum of contiguous integers
 
-## Instructions for Installation and Running
+## Instructions for Running
 1. Clone Repository.
 2. Open terminal and `cd` to path of the repo.
 3. Optionally modify `./test.txt`
